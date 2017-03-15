@@ -1,1 +1,1 @@
-import loadable from 'react-loadable'
+import loadable from '@kentcdodds/temp-react-loadable'
